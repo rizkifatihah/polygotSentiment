@@ -1,1 +1,1 @@
-# polygotSentiment
+This repository contains a research project focused on conducting multilingual sentiment analysis of comments related to polyglot individuals in international business communications. The study leverages the BERT (Bidirectional Encoder Representations from Transformers) model to analyze the sentiment of comments collected from various sources such as social media, forums, and internal company collaboration platforms.
